@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=devyanshunegi&style=flat-square&color=blue" alt="Profile Views" />
 
-- 🌱 I’m still learning Web Development
+- 🌱 I’m still learning AI & ML
 - 🤔 I’m looking for help with Open Source
 - 💬 Ask me about Web Development
 - 📫 How to reach me: devyanshunegi@gmail.com
